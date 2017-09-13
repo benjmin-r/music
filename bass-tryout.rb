@@ -1,0 +1,16 @@
+sample :bass_hit_c
+sleep 2
+sample :bass_hard_c
+sleep 2
+sample :bass_thick_c
+sleep 2
+sample :bass_drop_c
+sleep 2
+sample :bass_woodsy_c
+sleep 2
+sample :bass_voxy_c
+sleep 2
+sample :bass_voxy_hit_c
+sleep 2
+sample :bass_dnb_f
+sleep 2
