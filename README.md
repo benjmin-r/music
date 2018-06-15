@@ -1,6 +1,6 @@
 # Making Music with Sonic Pi
 
-I have no clue about music, so I'm tracking how I learn to make music with Sonic Pi in this repo.
+I have no clue about music, so I'm tracking how I learn to make music, which I often do with Sonic Pi, in this repo.
 
 ## Tools
 
